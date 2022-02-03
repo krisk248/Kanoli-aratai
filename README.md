@@ -1,12 +1,8 @@
-# Video-chat-v1
+# Kanoli Aratai
 
-Video-chat-v1 is a video chat app that makes it easy to groups up with people you want to meet
+Kanoli Aratai is a video chat app that makes it easy to groups up with people you want to meet
 
 ![IMG](./video-chat.png)
-
-Check out the live demo: https://video-chat-app-v1.herokuapp.com/
-
-An article I wrote which explains how I build this: https://bit.ly/3wh0gyR
 
 This app is build using NodeJS, Socket.io, and Peerjs(WebRTC)
 
@@ -19,5 +15,8 @@ This app is build using NodeJS, Socket.io, and Peerjs(WebRTC)
 
 ### ToDo
 
-- [ ] - Recreate the Front-end with React.
+- [ ] - Add a User name or login function
+- [ ] - Reload function are not working perfectly
+- [ ] - Admit function can be added to address loads of users.
+- [ ] - UI chnages to be done
 
